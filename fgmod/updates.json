@@ -1,10 +1,10 @@
 {
     "homepage": "https://fgsoftware1.github.io/fgmod",
     "1.18": {
-      "1.0.0-alpha": "1.0.0-alpha"
+      "1.0.0-1.18": "https://fgsoftware1.github.io/fgmod/1.0.0-latest/changelog"
     },
     "promos": {
-      "1.18-latest": "1.0.0-alpha",
-      "<mcversion>-recommended": "<modversion>"
+      "1.18-latest": "1.0.0-1.18",
+      "1.18-recommended": "1.0.0-1.18"
     }
   }
